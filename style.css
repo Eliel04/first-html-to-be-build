@@ -1,0 +1,21 @@
+*{ 
+  box-sizing: border-box;
+}
+ 
+button{
+   background-color: lightgray;
+   color: bold;
+   font-size: 20px;
+   border-radius: 5px; 
+   transition: all 200ms ease
+}  
+button:hover{
+   background-color: blueviolet;
+}
+
+button:active{
+   background-color: #3396d3;
+}
+
+
+
